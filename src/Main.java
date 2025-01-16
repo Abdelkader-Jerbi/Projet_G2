@@ -3,6 +3,7 @@ public class Main {
      public static void main(String[] args) {
         // Test de la méthode calculerPuissance
         int base = 2;
+	int base3 = 3;
         int exposant = 3;
         System.out.println(base + " puissance " + exposant + " = " + Abdelkader_Jerbi.calculerPuissance(base, exposant));
 
