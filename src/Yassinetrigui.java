@@ -10,7 +10,7 @@ public class Trigui_yassine {
         return a;
     }
 
-    // Function to calculate the PPCC (LCM)
+    //// Function to calculate the PPCC (LCM)
     public static int ppcc(int a, int b) {
         return Math.abs(a * b) / gcd(a, b);
     }
