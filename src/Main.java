@@ -5,6 +5,7 @@ public class Main {
         int base = 2;
 	int base3 = 3;
 	int exposd = 4;
+	int based = 4;
         int exposant = 3;
         System.out.println(base + " puissance " + exposant + " = " + Abdelkader_Jerbi.calculerPuissance(base, exposant));
 
@@ -30,6 +31,4 @@ public class Main {
          System.out.println("Moyenne du tableau : " + moyenne);
 
      }
-
->>>>>>> Arwa_Dridi
 }
