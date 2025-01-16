@@ -10,5 +10,10 @@ public class Main {
         int nombre1 = 56;
         int nombre2 = 98;
         System.out.println("PGCD de " + nombre1 + " et " + nombre2 + " = " + calculerPGCD(nombre1, nombre2));
+
+        // Test de la méthode somme
+         int[] tableaux = {1, 2, 3, 4, 5};
+        int somme = utils.calculerSomme(tableaux);
+        System.out.println("La somme du tableau est : " + somme);
     }
 }
