@@ -4,6 +4,7 @@ public class Main {
         // Test de la méthode calculerPuissance
         int base = 2;
         int exposant = 3;
+        int a =3 ;
         System.out.println(base + " puissance " + exposant + " = " + calculerPuissance(base, exposant));
 
         // Test de la méthode calculerPGCD
