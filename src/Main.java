@@ -9,6 +9,11 @@ public class Main {
         // Test de la méthode calculerPGCD
         int nombre1 = 56;
         int nombre2 = 98;
-        System.out.println("PGCD de " + nombre1 + " et " + nombre2 + " = " + calculerPGCD(nombre1, nombre2));
-    }
+        int nombre3= 887;
+        System.out.println("PGCD de " + nombre1 + " et " + nombre2 + " = " + calculerPGCD(nombre1, nombre2, nombre3));
+    
+            
+            
+
+}
 }
