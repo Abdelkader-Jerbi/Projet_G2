@@ -2,6 +2,7 @@
 public class Main {
      public static void main(String[] args) {
         // Test de la méthode calculerPuissance
+        int value=123;
         int base = 2;
         int exposant = 3;
         System.out.println(base + " puissance " + exposant + " = " + calculerPuissance(base, exposant));
