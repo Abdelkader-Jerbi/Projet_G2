@@ -18,3 +18,4 @@ public class mohamedchneni{
         }
     return s;
     }
+//* ajout methode 
